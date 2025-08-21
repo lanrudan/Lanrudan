@@ -13,7 +13,7 @@ Write the codes based on the algorithms provided in the attached textbook.
 
 经典机器学习算法；有中文（包括手写）笔记。
 
-Codes of classical ml algorithms. Sorry for only have description only in mandarin.
+Codes of classical ml algorithms. Sorry for only have description  in mandarin.
 
 ## [DA-Project](https://github.com/lanrudan/DA-Project)
 
